@@ -1,0 +1,58 @@
+h1,h2,h3,h4,p,li {
+    font-family: sans-serif;
+}
+
+
+h1{
+    font-size: 50px;
+
+    text-transform: uppercase;
+    font-style: italic;
+    color: #00ffff;
+}
+h2 {
+    font-size: 40px;
+   color:aqua;
+}
+h3{
+    font-size: 30px;
+    color: aqua;
+}
+h4{
+    font-size: 20px;
+    font-family: sans-serif;
+    
+    text-align: center;
+}
+p{
+    font-size: 22px;
+    line-height: 1.5;   
+}
+li{
+    font-size: 20px;
+}
+.RELATED-AUHTOR{
+    font-size: 18px;
+    font-weight: bold;
+}
+/* ul{
+    list-style: none;
+} */
+ .related{
+    list-style: none;
+ }
+ header {
+    background-color: #ea6112;
+ }
+ aside{
+    background-color: rgb(255, 255, 255);
+border-top: 5px solid #00ffff;
+border-bottom: 5px solid #00ffff;
+ }
+ a:link {
+    color: aqua;
+    text-decoration: none;
+ }
+ a:visited{
+    color: aqua;
+ }
